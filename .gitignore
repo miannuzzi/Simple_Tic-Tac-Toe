@@ -1,0 +1,20 @@
+# Project exclude paths
+/.gradle/
+/Simple Tic-Tac-Toe/task/build/
+/Simple Tic-Tac-Toe/task/out/
+/Simple Tic-Tac-Toe/task/out/production/classes/
+/Simple Tic-Tac-Toe/task/out/test/classes/
+/Topics/Iterating over arrays/The longest ascending sequence/out/
+/Topics/Iterating over arrays/The longest ascending sequence/out/production/classes/
+/Topics/Multidimensional array/Find the corners/out/
+/Topics/Multidimensional array/Find the corners/out/production/classes/
+/Topics/Multidimensional array/Reverse elements/out/
+/Topics/Multidimensional array/Reverse elements/out/production/classes/
+/Topics/The while and do-while loops/Collatz conjecture/out/
+/Topics/The while and do-while loops/Collatz conjecture/out/production/classes/
+/Topics/The while and do-while loops/Profit/out/
+/Topics/The while and do-while loops/Profit/out/production/classes/
+/Topics/The while and do-while loops/The sequence/out/
+/Topics/The while and do-while loops/The sequence/out/production/classes/
+/Topics/The while and do-while loops/Theory/out/
+/Topics/The while and do-while loops/Theory/out/production/classes/
